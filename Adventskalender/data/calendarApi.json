@@ -1,0 +1,180 @@
+{
+    "calendar":[{
+    
+        "day":1,
+        "puzzle":"Im Winter halt ich dich schön warm,im Frühling nimmst du mich auf den Arm.Im Sommer willst du nichts von mir wissen,im Herbst wirst du mich anziehn müssen.",
+        "answer":"Mantel",
+        "a": "Regenschirm",
+        "b":"Haube"
+    },
+    {
+        "day":2,
+        "puzzle":"Ich kenne einen guten Mann, im Winter liebt ihn jedermann. Doch, wenn die Sommerblumen blühn , kümmert sich kein Mensch um ihn. Der Mann in vielen Stuben stehtund niemals von der Stelle geht.",
+        "answer":"Ofen",
+        "a":"Schneeman",
+        "b":"Weihnachtsmann"
+
+    },
+
+    {
+        "day":3,
+        "puzzle":"Was grünt im Sommer und im Winter,erfreut zur Weihnachtszeit die Kinder?",
+        "answer":"Tannenbaum",
+        "a":"Lichterkette",
+        "b":"Geschenkpapier"
+    },
+    {
+        "day":4,
+        "puzzle":"Hat ein weißes Röckchen an,freut sich, dass es fliegen kann.Fängst dus mit den Händen ein,wird es bald geschmolzen sein.",
+        "answer": "Schneeflocke",
+        "a":"Zuckerwatte",
+        "b":"Seifenblasen"
+    },
+
+    {
+        "day":5,
+        "puzzle":"Meine Hände schließen sich um einen runden Ball. Und denkt nur, dabei friere ich! Was ist das?",
+        "answer":"Schneeball",
+        "a":"Eiscreme",
+        "b":"Eiszapfen"
+    },
+
+    {
+        "day":6,
+        "puzzle":"Er ist ein Freund der Kinder, kommt immer nur an einem Tag, trägt Schweres auf dem Rücken, um sie zu beglücke",
+        "answer":"Nikolaus",
+        "a":"Christkind",
+        "b":"Weihnachtsman"
+    },
+
+    {
+        "day":7,
+        "puzzle":"Süßer Teig wird angerührt und das Backblech eingeschmiert. Kleine Kuchen, die laut knacken, werden auf dem Blech gebacken. Sind sie aus dem Ofen raus, duftet gleich das ganze Haus.",
+        "answer":"Weihnachtsplätzchen",
+        "a":"Vanillekipferl",
+        "b":"Krapfen"
+    },
+    {
+        "day":8,
+        "puzzle":"Ganz alleine am Weihnachtsabend alle Geschenke an alle Kinder der Welt verteilen? Das ist ganz schön viel Arbeit! Gut, dass der Weihnachtsmann in jedem Land Freunde und Verwandte hat. Der russische Weihnachtsmann trägt ein blau-weißes Kostüm und hat beim Geschenkeaustragen seine Enkeltochter - das Schneeflöckchen - dabei. Wie heißt dieser russische Weihnachtsmann?",
+        "answer":"Väterchen Frost",
+        "a":"Vater Winter",
+        "b":"Väterchen Schnee"
+    },
+
+    {
+        "day":9,
+        "puzzle":"Wie heißen die 4 Wochen vor Weihnachten?",
+        "answer":"Adventszeit",
+        "a":"Weihnachtszeit",
+        "b":"Geschenkzeit"
+    },
+    {
+        "day":10,
+        "puzzle":"Es hängt an der Dachrinne und weint, wenn die liebe Sonne scheint.",
+        "answer":"Eiszapfen",
+        "a":"Schnee",
+        "b":"Regen"
+    },
+
+    {
+        "day":11,
+        "puzzle":"Im Winter steht er still und stumm dort draußen ganz in weiß herum. Doch fängt die Sonne an zu scheinen, beginnt er bitterlich zu weinen.",
+        "answer":"Schneemann",
+        "a":"Schneehaufen",
+        "b":"gefrorener See"
+    },
+
+    {
+        "day":12,
+        "puzzle":"Manchmal komm ich über Nacht,fall vom Himmel, leis` und sacht. Zäune, Dächer, Kirchturmspitzen,bekommen weiße Zipfelmützen.",
+        "answer":"Schnee",
+        "a":"Hagel",
+        "b":"Frost"
+    },
+    {
+        "day":13,
+        "puzzle":"Harte Schale, leckerer Kern. Wer mich knackt, der isst mich gern.",
+        "answer":"Nuss",
+        "a":"Zimtstern",
+        "b":"Lebkuchenherz"
+    },
+    {
+        "day":14,
+        "puzzle":"Was ist am 25. Dezember genauso lang wie am 24. Dezember?",
+        "answer":"Der Tag",
+        "a":"Die Weihnachtsbaumlichter",
+        "b":" Das Weihnachtsessen"
+    },
+    {
+        "day":15,
+        "puzzle":"Obs stimmt, das weiß keiner so genau, aber behauptet wird: Den braven Kindern bringt der Weihnachtsmann Geschenke, den bösen, denen bringt er ...",
+        "answer":"eine Rute",
+        "a":"Mandeln und Kekse",
+        "b":"in Sack voller Steine"
+    },
+    {
+        "day":16,
+        "puzzle":"Welcher Mann geht an Heiligabend von Haus zu Haus und schüttet den Kindern Gaben aus?",
+        "answer":"Weihnachtsmann",
+        "a":"Christkind",
+        "b":"Nikolaus"
+    },
+    {
+        "day":17,
+        "puzzle":"Was bringen die Drei heiligen Könige an die Krippe?",
+        "answer":"Gold, Weihrauch, Myrrhe",
+        "a":"Mehl, Wasser, Hefe",
+        "b":"Schmuck, Goldbarren, Münzen"
+    },
+    {
+        "day":18,
+        "puzzle":"Der Tannenbaum wurde heute geschmückt und alle sind total entzückt. Doch irgendetwas fehlt noch ganz oben. Kannst du mir sagen: Was musst du holen?",
+        "answer":"Tannenbaumspitze",
+        "a":"Lichterkette",
+        "b":"Kugel"
+    },
+    {
+        "day":19,
+        "puzzle":"Was wird an Weihnachten gefeiert?",
+        "answer":"Geburt von Jesus Christus",
+        "a":"Die Engel heiraten",
+        "b":"Der Weihnachtsmann hat Geburtstag"
+    },
+    {
+        "day":20,
+        "puzzle":"Welche Tiere standen im Stall von Jesus Christus?",
+        "answer":"Ochse und Esel",
+        "a":"Kuh und Kamel",
+        "b":"Hund und Katze"
+    },
+    {
+        "day":21,
+        "puzzle":"Knack, knack, 1, 2, 3 knacke ich die Nuss entzwei. Knack, knack, aus dem Haus hole ich den Kern heraus. Soll es glücken, musst du drücken. Knack, knack,hilf doch mit! Wünsche guten Appetit! Wer oder was ist das?",
+        "answer":"Nussknacker",
+        "a":"Rezept",
+        "b":"Bäcker"
+    },
+    {
+        "day":22,
+        "puzzle":"Weil er so geheim arbeitet,bekommt man den Weihnachtsmann nur selten zu Gesicht. Das ist aber nicht schlimm, denn wenn du  gut hinhörst, erkennst du ihn schon an seinem Lachen. Und das hört sich dann so an:",
+        "answer":"Ho, ho, ho",
+        "a":"Ha, ha, ha, ha",
+        "b":"Hi, hi, hi, hi"
+    },
+    {
+        "day":23,
+        "puzzle":"Was erfreut Kinder und Erwachsene? Man kann es kaufen oder selbst basteln. Es besteht aus 24 kleinen Überraschungen, die sich hinter Türchen oder in Säckchen/ Päckchen verbergen.",
+        "answer":"Adventskalender",
+        "a":"Adventskranz",
+        "b":"Geschenk"
+    },
+    {
+        "day":24,
+        "puzzle":"Was bin ich? Ich bin groß oder klein. Mich gibt es in vielen Formen. Mich kann man kaufen oder selber machen. Oft bin ich bunt verziert, aber nicht immer. Wenn ich erst mal da bin, bin ich auch schnell wieder weg. Beliebt bin ich bei Kindern und Erwachsenen gleichermaßen.",
+        "answer":"Weihnachtskekse",
+        "a":"Lebkuchenhaus",
+        "b":"Weihnachtsdeko"
+    }
+]
+}

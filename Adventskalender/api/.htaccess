@@ -1,0 +1,14 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Change to current subfolder (absolute path!)
+    RewriteBase /Adventskalender/api/
+
+    # Only redirect, if no regular file (-f) or directory (-d)
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+
+    # Redirect requests to /books/{name} to /api.php?book={name}
+ 
+    RewriteRule ^calendar/([^/]*)$ ./calendar.php?calendarid= [QSA,L]
+</IfModule>
